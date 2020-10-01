@@ -1,5 +1,6 @@
 # Calculator
-A simple calculator to perform basic mathematical operations
+A simple calculator to perform basic mathematical operations.
+- fully written in java.
 
 Installation:
 Download and install Android Studio and other packages like SDK and APKs.
